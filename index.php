@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "TEST Github cPanel Deploy test111111111111111111111";?>
+    <?php echo "GOGA";?>
     
 </body>
 </html>
