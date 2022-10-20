@@ -7,7 +7,11 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <?php echo "GOGA";?>
+=======
+    <?php echo "GOGA1sss1ssssssssssss1sssssssssss1";?>
+>>>>>>> efd1678... feat: Create index.html
     
 </body>
 </html>
