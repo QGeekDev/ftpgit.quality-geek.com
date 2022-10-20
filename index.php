@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "GOGA1sss1ssssssssssss1sssssssssss1";?>
+    <?php echo "GOGA";?>
     
 </body>
 </html>
