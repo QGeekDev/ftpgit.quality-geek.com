@@ -1,8 +1,8 @@
 name: 🚀 Deploy website on push
 on:
   push:
-    branches: [main]
-
+    branches: 
+      - main
 jobs:
   FTP-Deploy-Action:
       name: 🎉 FTP-Deploy-Action
