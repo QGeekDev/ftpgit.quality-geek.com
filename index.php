@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "GOGA Bad ";?>
+ <?php echo "GOGA, this time it's okay";?>
     
 </body>
 </html>
