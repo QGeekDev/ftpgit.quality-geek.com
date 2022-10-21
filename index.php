@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
- <?php echo "GOGA, this time it's okay1";?>
+ <?php echo "GOGA, this time it's okay test developerToken";?>
     
 </body>
 </html>
