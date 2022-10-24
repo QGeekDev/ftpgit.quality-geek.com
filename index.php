@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php echo "Like!"?>
+    <?php echo "Like!</br>"?>
     <?php echo "GOGA, Webwook working!GOGA, Webwook working!GOGA, Webwook working!GOGA, Webwook working!";?>
     
 </body>
